@@ -1,0 +1,7 @@
+{
+  "name": "GeoTrack Pro",
+  "description": "A high-performance interactive map SaaS platform for real-time fleet tracking, geofencing, and geospatial AI-driven analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
